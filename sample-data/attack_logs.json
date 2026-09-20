@@ -1,0 +1,211 @@
+[
+  {
+    "timestamp": "2026-09-18T10:31:01Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Failed interactive logon for alex.morgan (attempt 1 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:04Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Failed interactive logon for alex.morgan (attempt 2 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:07Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Failed interactive logon for alex.morgan (attempt 3 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:10Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Failed interactive logon for alex.morgan (attempt 4 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:13Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Failed interactive logon for alex.morgan (attempt 5 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:16Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Failed interactive logon for alex.morgan (attempt 6 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:19Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Failed interactive logon for alex.morgan (attempt 7 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:22Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Failed interactive logon for alex.morgan (attempt 8 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:25Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Failed interactive logon for alex.morgan (attempt 9 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:28Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "high",
+    "message": "Failed interactive logon for alex.morgan (attempt 10 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:31Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "high",
+    "message": "Failed interactive logon for alex.morgan (attempt 11 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:34Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "high",
+    "message": "Failed interactive logon for alex.morgan (attempt 12 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:37Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "high",
+    "message": "Failed interactive logon for alex.morgan (attempt 13 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:40Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "high",
+    "message": "Failed interactive logon for alex.morgan (attempt 14 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:31:43Z",
+    "user": "alex.morgan",
+    "event_type": "failed_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Unknown",
+    "severity": "high",
+    "message": "Failed interactive logon for alex.morgan (attempt 15 of burst)"
+  },
+  {
+    "timestamp": "2026-09-18T10:33:08Z",
+    "user": "alex.morgan",
+    "event_type": "successful_login",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Lagos, NG",
+    "severity": "high",
+    "message": "Successful logon for alex.morgan after repeated failures"
+  },
+  {
+    "timestamp": "2026-09-18T10:34:12Z",
+    "user": "alex.morgan",
+    "event_type": "unusual_location",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Lagos, NG",
+    "severity": "high",
+    "message": "Session geolocation differs from historical office location (Austin, US)"
+  },
+  {
+    "timestamp": "2026-09-18T10:35:19Z",
+    "user": "alex.morgan",
+    "event_type": "privilege_escalation",
+    "source_ip": "203.0.113.44",
+    "destination_ip": "10.20.0.10",
+    "asset": "WIN-FINANCE-04",
+    "location": "Lagos, NG",
+    "severity": "critical",
+    "message": "Local administrator group membership granted to alex.morgan"
+  },
+  {
+    "timestamp": "2026-09-18T10:36:41Z",
+    "user": "alex.morgan",
+    "event_type": "large_outbound_transfer",
+    "source_ip": "10.20.4.88",
+    "destination_ip": "203.0.113.44",
+    "asset": "WIN-FINANCE-04",
+    "location": "Lagos, NG",
+    "severity": "critical",
+    "message": "Outbound transfer of approximately 4.8 GB from WIN-FINANCE-04"
+  }
+]

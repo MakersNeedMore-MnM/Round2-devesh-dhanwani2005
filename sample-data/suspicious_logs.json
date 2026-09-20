@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2026-09-18T07:22:09Z",
+    "user": "unknown",
+    "event_type": "port_scan",
+    "source_ip": "198.51.100.77",
+    "destination_ip": "10.20.0.1",
+    "asset": "GW-EDGE-01",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Repeated connection attempts across multiple ports"
+  },
+  {
+    "timestamp": "2026-09-18T07:48:55Z",
+    "user": "guest.contractor",
+    "event_type": "failed_login",
+    "source_ip": "198.51.100.77",
+    "destination_ip": "10.20.0.10",
+    "asset": "DC-01",
+    "location": "Unknown",
+    "severity": "medium",
+    "message": "Failed logon for disabled contractor account"
+  }
+]

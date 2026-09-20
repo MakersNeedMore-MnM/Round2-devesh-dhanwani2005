@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2026-09-18T08:02:11Z",
+    "user": "priya.shah",
+    "event_type": "successful_login",
+    "source_ip": "10.20.6.41",
+    "destination_ip": "10.20.0.10",
+    "asset": "LAPTOP-HR-12",
+    "location": "Austin, US",
+    "severity": "low",
+    "message": "Interactive logon succeeded"
+  },
+  {
+    "timestamp": "2026-09-18T08:15:44Z",
+    "user": "james.okonkwo",
+    "event_type": "file_access",
+    "source_ip": "10.20.4.21",
+    "destination_ip": "10.20.8.12",
+    "asset": "FS-FINANCE-01",
+    "location": "Austin, US",
+    "severity": "low",
+    "message": "Opened quarterly close workbook"
+  },
+  {
+    "timestamp": "2026-09-18T08:41:02Z",
+    "user": "maya.chen",
+    "event_type": "vpn_connect",
+    "source_ip": "10.20.0.1",
+    "destination_ip": "10.20.0.10",
+    "asset": "GW-EDGE-01",
+    "location": "Austin, US",
+    "severity": "low",
+    "message": "VPN tunnel established"
+  },
+  {
+    "timestamp": "2026-09-18T09:03:27Z",
+    "user": "priya.shah",
+    "event_type": "email_send",
+    "source_ip": "10.20.6.41",
+    "destination_ip": "10.20.0.25",
+    "asset": "MAIL-RELAY-02",
+    "location": "Austin, US",
+    "severity": "low",
+    "message": "Internal mail submitted to mail relay"
+  }
+]
